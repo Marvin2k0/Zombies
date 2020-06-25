@@ -1,0 +1,8 @@
+name: Zombies
+author: Marvin2k0
+version: 1.0
+main: de.marvin2k0.zombiearchergame.ZAMain
+commands:
+  zombies:
+    permission: zb.zombies
+    aliases: zb
